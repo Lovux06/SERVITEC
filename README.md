@@ -1,2 +1,2 @@
 # SERVITEC
-Mi proyecto con git (prueba de página web)
+Mi proyecto con git y github (prueba de página web SERVITEC).
