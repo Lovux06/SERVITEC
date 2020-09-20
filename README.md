@@ -1,2 +1,2 @@
 # SERVITEC
-Esta es mi mi sitio web.
+Esta es una prueba de mi sitio web.
